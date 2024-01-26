@@ -19,6 +19,7 @@ export default function Chat() {
   
 
   const navigation = useNavigation();
+  // const navigation = useNavigation();
 
   const loginBtnPressed = () => {
    

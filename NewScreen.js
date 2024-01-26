@@ -64,7 +64,7 @@ const styles = StyleSheet.create({
         height: 150,
         alignSelf: 'center',
         marginBottom: 20,
-        borderRadius: 75,
+        borderRadius: 76,
     },
     title: {
         fontSize: 28,
